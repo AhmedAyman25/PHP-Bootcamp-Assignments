@@ -1,0 +1,25 @@
+<?php
+/*
+ function 
+ for 
+ while
+ int
+ string
+ void
+ return
+ use
+ include_once
+ require_once
+ include
+ require
+ if
+ else
+ elseif
+ switch
+ case
+ default
+ break
+ continue
+ foreach
+
+*/
