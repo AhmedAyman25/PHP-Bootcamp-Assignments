@@ -7,7 +7,6 @@ $let_two = "z";
 
 $str = "El%er0";
 
-
 # First way
 // $str[intval($num_two)] = $let_two;
 // $str[$num_one] = $let_one;
