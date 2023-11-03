@@ -6,7 +6,7 @@ function sumOfItems($nums)
 	$result = 0;
 	foreach ($nums as $num) {
 		if(is_numeric($num)){
-			$result += $num;
+		$result += $num;
 		}
 		
 	}
