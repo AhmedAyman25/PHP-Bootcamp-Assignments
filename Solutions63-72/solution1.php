@@ -5,7 +5,7 @@ $friends = [
 	"MG" => "Mahmoud Gamal",
 	"AS" => "Ahmed Samy",
 	"FA" => "Farid Ahmed",
-	"SM" => "Sayed Mohamed"
+	"SM" => "Sayed Mohamed",
 ];
 
 echo "<pre>";
